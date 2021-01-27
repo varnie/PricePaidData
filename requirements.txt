@@ -1,0 +1,4 @@
+requests
+pandas
+dask[complete]
+beautifulsoup4
